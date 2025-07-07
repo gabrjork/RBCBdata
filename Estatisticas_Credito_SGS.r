@@ -1,4 +1,6 @@
-# Importando estatísticas fiscais do BCB
+# Importando estatísticas monetárias e de crédito do BCB
+
+
 
 library(writexl)
 library(GetBCBData)
